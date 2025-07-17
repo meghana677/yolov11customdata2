@@ -1,0 +1,6 @@
+train: C:/Users/Meghana/yolov11customdata2/train
+val: C:/Users/Meghana/yolov11customdata2/val
+
+nc: 1
+names: ["airplane"]
+
